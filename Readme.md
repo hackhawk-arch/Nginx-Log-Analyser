@@ -3,6 +3,7 @@
 A simple command-line tool written in **Bash** to analyze **Nginx access logs** and extract useful insights such as the most active IPs, requested paths, response status codes, and user agents.
 
 This project is designed to practice **basic shell scripting and Unix text-processing tools** like `awk`, `sort`, `uniq`, `grep`, `sed`, and `cut`.
+More about this project roadmap can be found here: [Roadmap.sh Project Page](https://roadmap.sh/projects/nginx-log-analyser)
 
 ---
 
@@ -133,3 +134,4 @@ Top 5 response status codes:
 
 
 ---
+
