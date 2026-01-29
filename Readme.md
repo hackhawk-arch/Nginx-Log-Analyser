@@ -1,4 +1,3 @@
-```md
 # Nginx Log Analyzer (Shell Script)
 
 A simple command-line tool written in **Bash** to analyze **Nginx access logs** and extract useful insights such as the most active IPs, requested paths, response status codes, and user agents.
@@ -131,5 +130,6 @@ Top 5 response status codes:
 * Filter logs by date/time range
 * Add argument flags (e.g. `--ips`, `--paths`)
 * Dockerize the script for portability
+
 
 ---
